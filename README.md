@@ -1,3 +1,20 @@
+# MultiBank QA Automation Framework
+
+## Overview
+Production-grade web UI automation framework built with **Playwright** and **C#** to validate core functionality of the MultiBank trading platform.
+
+## Target Application
+- **URL**: https://trade.mb.io/
+- **Scope**: Public-facing platform (no login required)
+
+## Technology Stack
+- **Framework**: Playwright for .NET
+- **Language**: C# (.NET 10.0)
+- **Test Runner**: NUnit
+- **Reporting**: Playwright HTML Reporter
+
+
+
 ## Task 2 - QA Strategy & Thinking
 
 See [QA_STRATEGY.md](./QA_STRATEGY.md) for detailed responses to:
